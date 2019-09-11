@@ -1,7 +1,7 @@
 get_japanese_emoticon
 
 def load_library
-  emot
+  emoticons.yml
 end
 
 def get_japanese_emoticon
